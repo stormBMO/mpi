@@ -4,7 +4,7 @@
 #include "mpi.h"
 #include <iostream>
 
-#define N 1000
+#define N 1500
 
 using namespace std;
 
